@@ -1,4 +1,5 @@
-HELP.md
+# Adiciona todas as alterações e arquivos novos (respeitando o .gitignore)
+git add .HELP.md
 target/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
